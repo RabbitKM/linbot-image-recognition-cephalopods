@@ -1,0 +1,17 @@
+flask
+flask_cors
+line-bot-sdk
+wheel
+grpcio
+gunicorn
+pandas
+google-cloud-firestore
+google-cloud-storage
+google-cloud-logging
+tensorflow-cpu
+Pillow
+# 圖片辨識用
+aio-pika
+#nest_asyncio
+#pyngrok
+gunicorn
