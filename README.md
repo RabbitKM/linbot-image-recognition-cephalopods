@@ -36,6 +36,7 @@
 ### 爬蟲
 
 圖片+關鍵字找相似圖  
+
 <img src="https://drive.google.com/uc?export=view&id=10Yw8j-o_GQ7OcLmZ2Vyy71WHDJX9iIkv" height="250">  
 
 以變數調整requests參數 ([完整程式](https://github.com/RabbitKM/exercise-python/blob/main/web-crawler/image-search-AdobeStock.ipynb))
@@ -93,6 +94,7 @@ output_all('cuttlefish', serch_list)
 ### 資料清洗
 
 排除非目標、有疑慮圖片  
+
 <img src="https://drive.google.com/uc?export=view&id=1umHkQ5oX9xUN-DG4kKwJ-StVwvZlgtyA" height="250">  
 
 ## ◆AI模型
@@ -133,7 +135,8 @@ output_all('cuttlefish', serch_list)
 
 
 ## ◆專案架構圖
-使用GCP串接LINE API以及存放所有用戶資訊，另將AI模型獨立存放於Azure提高辨識效率，而Colab作為臨時AI模型伺服器可分攤流量。
+使用GCP串接LINE API以及存放所有用戶資訊，另將AI模型獨立存放於Azure提高辨識效率，而Colab作為臨時AI模型伺服器可分攤流量。  
+
 <img src="https://drive.google.com/uc?export=view&id=1zwQGM_hone8c-yk8N0fT14IkAmDFHeA1" height="250">  
 
 ## ◆用戶資料分析
